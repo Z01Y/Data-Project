@@ -1,0 +1,1 @@
+In this file, I used Kaggle API to download database directly from Kaggle. To clean database, I used pandas library to add headers and convert it to a new file. To visualize the data, I chose matplotlib.pyplot library to create histogram.
